@@ -94,12 +94,3 @@ Here are some ideas to get you started:
 
 ###
 
-###
-
-<h2 data-importer="text" align="left"></h2>
-
-###
-
-<p data-importer="text" align="center">Obrigado por ler!</p>
-
-###
