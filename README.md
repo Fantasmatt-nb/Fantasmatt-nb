@@ -27,11 +27,11 @@ Atualmente estou aprendendo, construindo, quebrando, consertando e tentando ente
 
 ## 🛠️ O que eu uso
 
-`Java` · `PHP` · `JavaScript` · `HTML` · `CSS` · `MySQL` · `Git`
+`Java` · `PHP` · `HTML` · `CSS` · `MySQL` · `Git`
 
 ### 🔎 Explorando
 
-`GSAP` · `UI/UX` · `Desenvolvimento Web` · `Full-Stack`
+`GSAP` · `JavaScript` ·  `UI/UX` · `Desenvolvimento Web` · `Full-Stack`
 
 ---
 
