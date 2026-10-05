@@ -15,70 +15,82 @@ Here are some ideas to get you started:
 -->
 
 
-# Opa, eu sou a Hillary. 👋
+<img data-importer="image" align="right" height="200" src="https://i.pinimg.com/1200x/e8/bc/1a/e8bc1aef95af309f2612254129464db9.jpg"  />
 
-> Bem-vindo ao meu cantinho da internet.
+###
 
-Sou estudante de **Desenvolvimento de Sistemas** e gosto de transformar ideias em coisas que realmente funcionam.
+<h1 data-importer="text" align="left">Oi! Seja bem vindo(a) ao meu cantinho 👋💻</h1>
 
-Atualmente estou aprendendo, construindo, quebrando, consertando e tentando entender por que o código funcionava cinco minutos atrás.
+###
 
----
+<p data-importer="text" align="left">Sou estudante um curso técnico de desenvolvimento de sistemas com ensino médio e eu simplesmente me APAIXONEI pela área! <br><br>Pode entrar, só não repara a bagunça</p>
 
-## 🛠️ O que eu uso
+###
 
-`Java` · `PHP` · `HTML` · `CSS` · `MySQL` · `Git`
+<h2 data-importer="text" align="left">Sobre mim</h2>
 
-### 🔎 Explorando
+###
 
-`GSAP` · `JavaScript` ·  `UI/UX` · `Desenvolvimento Web` · `Full-Stack`
+<p data-importer="text" align="left">✨ Criando projetos e consertando bugs que eu mesmo crio desde  2025<br>📚 Estou aprendendo por conta própria: UI/UX, design digital e GSAP <br>🎯 Objetivos: Achar o problema perfeito para fazer uma solução digital<br>🎲 Fato divertido: Eu amo guepardos   e amo uma boa ideia, mesmo que ela pareça impossível</p>
 
----
+###
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
 
-## 🧪 Experimentos
+###
 
-Algumas vão ficar bonitas.
+<h2 data-importer="text" align="left">🛠️ Ferramentas e tecnologias que uso</h2>
 
-Algumas vão ficar meio questionáveis.
+###
 
-Algumas talvez nunca terminem.
+<br clear="both">
 
-Faz parte.
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
----
+###
 
-## 🎯 Atualmente
+<h2 data-importer="text" align="left">Outros aplicativos que você pode me encontrar (além do GitHub)</h2>
 
-* 📚 Estudando Desenvolvimento de Sistemas
-* 💻 Fortalecendo minha base de programação
-* 🌐 Aprendendo mais sobre desenvolvimento Full-Stack
-* 🎨 Explorando design, UI/UX e animações para a web
-* 🚀 Criando projetos em vez de só assistir tutoriais
+###
 
----
+<br clear="both">
 
-## 🏠 Você chegou até aqui
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/hillary-ingrid" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/hillaryjairol" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
+</div>
 
-Essa é minha área.
+###
 
-Pode olhar.
+<h2 data-importer="text" align="left"></h2>
 
-Pode explorar.
+###
 
-**Só não mexe nas coisas.**
+<p data-importer="text" align="center">Obrigado por ler!</p>
 
-```txt
-> status: construindo...
-> bugs encontrados: provavelmente
-> projetos em andamento: sim
-> café: necessário
-> ideia nova: surgindo
-```
-
----
-
-<p align="center">
-  <i>Obrigado pela visita.</i>
-</p>
+###
 
