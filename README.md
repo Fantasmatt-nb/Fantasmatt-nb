@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 -->
 
 
-<img data-importer="image" align="right" height="200" src="https://i.pinimg.com/1200x/e8/bc/1a/e8bc1aef95af309f2612254129464db9.jpg"  />
+
+
+<h1 data-importer="text" align="left">Oi! Seja bem vindo(a) ao meu cantinho 👋💻</h1>
 
 ###
 
-<h1 data-importer="text" align="left">Oi! Seja bem vindo(a) ao meu cantinho 👋💻</h1>
+<img data-importer="image" align="right" height="200" src="https://i.pinimg.com/1200x/e8/bc/1a/e8bc1aef95af309f2612254129464db9.jpg"  />
 
 ###
 
@@ -93,4 +95,3 @@ Here are some ideas to get you started:
 <p data-importer="text" align="center">Obrigado por ler!</p>
 
 ###
-
